@@ -68,6 +68,6 @@ python canteen_sales_analysis.py
 .Use Git and GitHub for project versioning and sharing
 
 
-## Output
+## 📊 Output
 
 ![image](https://github.com/user-attachments/assets/fa28b639-9e2e-4906-9bb7-0ec2f02c7544)
