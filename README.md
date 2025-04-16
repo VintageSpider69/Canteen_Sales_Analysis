@@ -3,7 +3,7 @@
 Welcome to the **Canteen Sales Analysis** project! This repository holds the code and data for a real-world, data-driven exploration of canteen sales trends using Python.
 
 > 🔍 **This project was created as part of a course assignment for my Python programming class.**  
-> The prompt was:  
+> The assignment question was:  
 > _"Create a real life application level project using Pandas / Numpy / Matplotlib to perform exploratory analysis of data."_
 
 So here it is—polished, pushed, and powered by Pandas.
