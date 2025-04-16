@@ -4,7 +4,7 @@ Welcome to the **Canteen Sales Analysis** project! This repository holds the cod
 
 > 🔍 **This project was created as part of a course assignment for my Python programming class.**  
 > The prompt was:  
-> _"Create a real life application level project using Pandas / Numpy / Matplotlib to perform exploratory analysis of data. Submit in your GitHub by this weekend."_
+> _"Create a real life application level project using Pandas / Numpy / Matplotlib to perform exploratory analysis of data."_
 
 So here it is—polished, pushed, and powered by Pandas.
 
